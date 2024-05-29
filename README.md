@@ -29,3 +29,9 @@
 5. git push origin HEAD:develop
 
 - commit한 내용을 원격저장소 develop에 push할 수 있도록 함.
+
+
+
+6.  git branch --set-upstream-to=origin/develop issueTest
+
+- 현재 로컬 브랜치인 issueTest 브랜치에 origin/develop (Github 원격 저장소에 존재하는 브랜치)를 맵핑해준다.
