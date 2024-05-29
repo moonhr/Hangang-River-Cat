@@ -5,5 +5,4 @@ let cat = ()=>{
 
 let i = cat()
 
-
 i()
