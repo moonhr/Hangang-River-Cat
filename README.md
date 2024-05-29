@@ -16,7 +16,7 @@
 
 
 
-2. <U>%git branch -a</U>
+2. <u>%git branch -a</u>
 
 원격 저장소 + 로컬 저장소의 브랜치를 출력.
 
